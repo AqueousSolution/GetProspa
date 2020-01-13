@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/GetProspa/static/css/main.fd0fa12d.chunk.css",
+    "main.js": "/GetProspa/static/js/main.9291df30.chunk.js",
+    "main.js.map": "/GetProspa/static/js/main.9291df30.chunk.js.map",
+    "runtime-main.js": "/GetProspa/static/js/runtime-main.8e96c548.js",
+    "runtime-main.js.map": "/GetProspa/static/js/runtime-main.8e96c548.js.map",
+    "static/js/2.6b2c5b69.chunk.js": "/GetProspa/static/js/2.6b2c5b69.chunk.js",
+    "static/js/2.6b2c5b69.chunk.js.map": "/GetProspa/static/js/2.6b2c5b69.chunk.js.map",
+    "index.html": "/GetProspa/index.html",
+    "precache-manifest.15813f1e10fea48824764bdac8639af5.js": "/GetProspa/precache-manifest.15813f1e10fea48824764bdac8639af5.js",
+    "service-worker.js": "/GetProspa/service-worker.js",
+    "static/css/main.fd0fa12d.chunk.css.map": "/GetProspa/static/css/main.fd0fa12d.chunk.css.map",
+    "static/js/2.6b2c5b69.chunk.js.LICENSE": "/GetProspa/static/js/2.6b2c5b69.chunk.js.LICENSE",
+    "static/media/App.css": "/GetProspa/static/media/gilroy-light-webfont.966bee11.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e96c548.js",
+    "static/js/2.6b2c5b69.chunk.js",
+    "static/css/main.fd0fa12d.chunk.css",
+    "static/js/main.9291df30.chunk.js"
+  ]
+}
