@@ -1,17 +1,14 @@
-import React from 'react';
-import Navigation from './Navigation';
-import AccountContainer from './AccountContainer'
-import {NavLink} from 'react-router-dom';
+import React from "react";
+import Navigation from "./Navigation";
 
-const Invoicing=()=>{
-return(
+const Invoicing = () => {
+  return (
     <div>
-    <Navigation />
-    <div className="MainContent">
-    <h1>All Invoices</h1>
+      <Navigation />
+      <div className="MainContent">
+        <h1>All Invoices</h1>
+      </div>
     </div>
-    </div>
-)
-
-}
-export default Invoicing
+  );
+};
+export default Invoicing;

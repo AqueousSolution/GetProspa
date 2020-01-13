@@ -5,7 +5,11 @@ const Welcome = () => {
   return (
     <div className="welcomepage">
       <header>
-        <img className="welcomelogo" src="./prospa-logo-purple.svg" />
+        <img
+          className="welcomelogo"
+          alt="logo"
+          src="./prospa-logo-purple.svg"
+        />
         <ul>
           <li>Home</li>
           <li>About Us</li>
@@ -20,7 +24,7 @@ const Welcome = () => {
           <p> you with your sign up. Kindly find the </p>
           <p> requirements needed below</p>
         </div>
-        <img className="amaka" src="./undraw.png" alt="Amaka" />
+        <img className="amaka" alt="amaka" src="./undraw.png" alt="Amaka" />
       </div>
       <div className="requirements">
         <div className="items colored">

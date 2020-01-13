@@ -1,7 +1,6 @@
 import React from "react";
 import Navigation from "./Navigation";
 import AccountContainer from "./AccountContainer";
-import { NavLink } from "react-router-dom";
 
 const Account = () => {
   return (

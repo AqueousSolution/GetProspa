@@ -1,6 +1,4 @@
 import React from "react";
-import Navigation from "./Navigation";
-import { NavLink } from "react-router-dom";
 
 const AccountContainer = props => {
   return (

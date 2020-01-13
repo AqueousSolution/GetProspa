@@ -404,4 +404,7 @@ div.topbar {
     background-color: #f84882;
     border-radius: 1rem;
   }
+  .items hr {
+    display: none;
+  }
 }
