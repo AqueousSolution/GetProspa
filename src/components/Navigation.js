@@ -85,7 +85,7 @@ const Navigation = () => {
               activeClassName="active"
               activeStyle={{ width: "100px" }}
             >
-              <img className="icon" src="./security1.png" />
+              <img className="icon" src="./Security1.png" />
               Security
             </NavLink>
           </li>
@@ -101,7 +101,7 @@ const Navigation = () => {
               activeClassName="active"
               activeStyle={{ width: "100px" }}
             >
-              <img className="icon" src="./support.png" />
+              <img className="icon" src="./Support.png" />
               Support
             </NavLink>
           </li>
