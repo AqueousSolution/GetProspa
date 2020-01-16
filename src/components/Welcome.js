@@ -27,22 +27,22 @@ const Welcome = () => {
         <img className="amaka" alt="amaka" src="./undraw.png" alt="Amaka" />
       </div>
       <div className="requirements">
-        <div className="items colored">
+        <div className="items colored one">
           <h2>BVN</h2>
           <hr />
           <p>Your 10 digit BVN needed for verification purpose</p>
         </div>
-        <div className="items">
+        <div className="items two">
           <h2>CAC</h2>
           <hr />
           <p>Your 10 digit BVN needed for verification purpose</p>
         </div>
-        <div className="items colored">
+        <div className="items colored three">
           <h2>ID Card</h2>
           <hr />
           <p>Your 10 digit BVN needed for verification purpose</p>
         </div>
-        <div className="items">
+        <div className="items four">
           <h2>CSS</h2>
           <hr />
           <p>Your 10 digit BVN needed for verification purpose</p>

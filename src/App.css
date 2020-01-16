@@ -237,7 +237,7 @@ div.topbar {
   margin: 5% 0 0 9rem;
   color: #260350;
   animation-name: slideIn;
-  animation-duration: 1s;
+  animation-duration: 4s;
 }
 .welcome p {
   margin: 0 0 0 9rem;
@@ -256,6 +256,27 @@ div.topbar {
   border-radius: 1rem;
 }
 
+.one {
+  animation-name: boxflow;
+  animation-duration: 1s;
+  animation-delay: 1s;
+}
+.two {
+  animation-name: boxflow;
+  animation-duration: 1s;
+  animation-delay: 2s;
+}
+.three {
+  animation-name: boxflow;
+  animation-duration: 1s;
+  animation-delay: 3s;
+}
+
+.four {
+  animation-name: boxflow;
+  animation-duration: 1s;
+  animation-delay: 4s;
+}
 .bottomdiv p {
   margin: 3% 0% 0 80%;
   font-size: 0.7rem;
@@ -270,7 +291,9 @@ div.topbar {
   background-color: #260350;
   color: white;
 }
-
+.bottomdiv button:hover {
+  background-color: #f84882;
+}
 .items h2 {
   text-align: center;
   margin-top: 1rem;
@@ -295,12 +318,21 @@ div.topbar {
   margin: 2% 0 0 10%;
 }
 
-@keyframes slideIn {
+@keyframes boxflow {
   0% {
     transform: scale(0);
   }
   100% {
     transform: scale(1);
+  }
+}
+
+@keyframes slideIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
   }
 }
 @media (max-width: 768px) {
@@ -403,6 +435,28 @@ div.topbar {
     width: 70vw;
     background-color: #f84882;
     border-radius: 1rem;
+  }
+
+  .one {
+    animation-name: boxflow;
+    animation-duration: 1s;
+    animation-delay: 1s;
+  }
+  .two {
+    animation-name: boxflow;
+    animation-duration: 1s;
+    animation-delay: 2s;
+  }
+  .three {
+    animation-name: boxflow;
+    animation-duration: 1s;
+    animation-delay: 3s;
+  }
+
+  .four {
+    animation-name: boxflow;
+    animation-duration: 1s;
+    animation-delay: 4s;
   }
   .items hr {
     display: none;
