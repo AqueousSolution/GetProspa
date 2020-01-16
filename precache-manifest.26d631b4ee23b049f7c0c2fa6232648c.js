@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "665d0a798bb92e640e58a1e4774c949c",
+    "revision": "39be649263b6b203981dd4c79b0a873f",
     "url": "/GetProspa/index.html"
   },
   {
-    "revision": "1c7cbac8613d9ac58fa5",
-    "url": "/GetProspa/static/css/main.f7f9664c.chunk.css"
+    "revision": "579f17ba453d42b7de79",
+    "url": "/GetProspa/static/css/main.08abf18d.chunk.css"
   },
   {
-    "revision": "782e4cc5cba7b4d7acf2",
-    "url": "/GetProspa/static/js/2.7dfca915.chunk.js"
+    "revision": "781f6a2c26f86e2f9a4a",
+    "url": "/GetProspa/static/js/2.dff371ba.chunk.js"
   },
   {
     "revision": "e928fe768baa9832b5bc57eae021f30c",
-    "url": "/GetProspa/static/js/2.7dfca915.chunk.js.LICENSE"
+    "url": "/GetProspa/static/js/2.dff371ba.chunk.js.LICENSE"
   },
   {
-    "revision": "1c7cbac8613d9ac58fa5",
-    "url": "/GetProspa/static/js/main.d1782027.chunk.js"
+    "revision": "579f17ba453d42b7de79",
+    "url": "/GetProspa/static/js/main.8bb3c4f9.chunk.js"
   },
   {
     "revision": "22660dc285e3b369603e",
@@ -38,5 +38,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "966bee11289c250c0b95e34df92cc1dd",
     "url": "/GetProspa/static/media/gilroy-light-webfont.966bee11.woff"
+  },
+  {
+    "revision": "469e50232836e1ec0769cfb0eacc7ac9",
+    "url": "/GetProspa/static/media/prospaBG.469e5023.png"
   }
 ]);
