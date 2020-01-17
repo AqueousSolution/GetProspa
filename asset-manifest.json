@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/GetProspa/static/css/main.3153cc19.chunk.css",
-    "main.js": "/GetProspa/static/js/main.80a2abb8.chunk.js",
-    "main.js.map": "/GetProspa/static/js/main.80a2abb8.chunk.js.map",
+    "main.css": "/GetProspa/static/css/main.98649d65.chunk.css",
+    "main.js": "/GetProspa/static/js/main.5604f85e.chunk.js",
+    "main.js.map": "/GetProspa/static/js/main.5604f85e.chunk.js.map",
     "runtime-main.js": "/GetProspa/static/js/runtime-main.8e96c548.js",
     "runtime-main.js.map": "/GetProspa/static/js/runtime-main.8e96c548.js.map",
     "static/js/2.70a1a0ee.chunk.js": "/GetProspa/static/js/2.70a1a0ee.chunk.js",
     "static/js/2.70a1a0ee.chunk.js.map": "/GetProspa/static/js/2.70a1a0ee.chunk.js.map",
     "index.html": "/GetProspa/index.html",
-    "precache-manifest.58f9f3bad0304a9b4a934adbd258550a.js": "/GetProspa/precache-manifest.58f9f3bad0304a9b4a934adbd258550a.js",
+    "precache-manifest.1ccab7c6edf5fb1cd292f97c0e97d424.js": "/GetProspa/precache-manifest.1ccab7c6edf5fb1cd292f97c0e97d424.js",
     "service-worker.js": "/GetProspa/service-worker.js",
-    "static/css/main.3153cc19.chunk.css.map": "/GetProspa/static/css/main.3153cc19.chunk.css.map",
+    "static/css/main.98649d65.chunk.css.map": "/GetProspa/static/css/main.98649d65.chunk.css.map",
     "static/js/2.70a1a0ee.chunk.js.LICENSE": "/GetProspa/static/js/2.70a1a0ee.chunk.js.LICENSE",
     "static/media/App.css": "/GetProspa/static/media/prospaBG.469e5023.png"
   },
   "entrypoints": [
     "static/js/runtime-main.8e96c548.js",
     "static/js/2.70a1a0ee.chunk.js",
-    "static/css/main.3153cc19.chunk.css",
-    "static/js/main.80a2abb8.chunk.js"
+    "static/css/main.98649d65.chunk.css",
+    "static/js/main.5604f85e.chunk.js"
   ]
 }
