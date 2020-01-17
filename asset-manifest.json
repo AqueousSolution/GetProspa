@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/GetProspa/static/css/main.a2f3938c.chunk.css",
+    "main.css": "/GetProspa/static/css/main.b15d676f.chunk.css",
     "main.js": "/GetProspa/static/js/main.5604f85e.chunk.js",
     "main.js.map": "/GetProspa/static/js/main.5604f85e.chunk.js.map",
     "runtime-main.js": "/GetProspa/static/js/runtime-main.8e96c548.js",
@@ -8,16 +8,16 @@
     "static/js/2.70a1a0ee.chunk.js": "/GetProspa/static/js/2.70a1a0ee.chunk.js",
     "static/js/2.70a1a0ee.chunk.js.map": "/GetProspa/static/js/2.70a1a0ee.chunk.js.map",
     "index.html": "/GetProspa/index.html",
-    "precache-manifest.a199d4da799696cda3a9397c72222d28.js": "/GetProspa/precache-manifest.a199d4da799696cda3a9397c72222d28.js",
+    "precache-manifest.018359362fab88c9e044dafd19b0b540.js": "/GetProspa/precache-manifest.018359362fab88c9e044dafd19b0b540.js",
     "service-worker.js": "/GetProspa/service-worker.js",
-    "static/css/main.a2f3938c.chunk.css.map": "/GetProspa/static/css/main.a2f3938c.chunk.css.map",
+    "static/css/main.b15d676f.chunk.css.map": "/GetProspa/static/css/main.b15d676f.chunk.css.map",
     "static/js/2.70a1a0ee.chunk.js.LICENSE": "/GetProspa/static/js/2.70a1a0ee.chunk.js.LICENSE",
     "static/media/App.css": "/GetProspa/static/media/prospaBG.469e5023.png"
   },
   "entrypoints": [
     "static/js/runtime-main.8e96c548.js",
     "static/js/2.70a1a0ee.chunk.js",
-    "static/css/main.a2f3938c.chunk.css",
+    "static/css/main.b15d676f.chunk.css",
     "static/js/main.5604f85e.chunk.js"
   ]
 }

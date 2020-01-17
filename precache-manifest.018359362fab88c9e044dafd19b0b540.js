@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "59c1b63568842878104286d2f1640617",
+    "revision": "7b9ff9ad8034a15cbdc03cf48a843ae0",
     "url": "/GetProspa/index.html"
   },
   {
-    "revision": "f1d1f2feae4a5861315d",
-    "url": "/GetProspa/static/css/main.a2f3938c.chunk.css"
+    "revision": "5fbb35db81de5cb7bd0e",
+    "url": "/GetProspa/static/css/main.b15d676f.chunk.css"
   },
   {
     "revision": "c203f936b4ce69cfef30",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/GetProspa/static/js/2.70a1a0ee.chunk.js.LICENSE"
   },
   {
-    "revision": "f1d1f2feae4a5861315d",
+    "revision": "5fbb35db81de5cb7bd0e",
     "url": "/GetProspa/static/js/main.5604f85e.chunk.js"
   },
   {
