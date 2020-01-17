@@ -1,5 +1,4 @@
 import React from "react";
-import { Link } from "react-router-dom";
 
 const Welcome = () => {
   return (
@@ -14,7 +13,7 @@ const Welcome = () => {
       <div className="gradientBG">
         <img className="welcomelogo" src="./prospa-logo.svg" />
         <h1>Welcome</h1>
-        <p>
+        <p className="mainp">
           Thank you for your interest in prospa.
           <br /> Please find below the documents required for sign up
         </p>
@@ -25,7 +24,7 @@ const Welcome = () => {
             <p>
               Your 10 digit BVN needed for verification purpose. It enables us
               to ensure you are the true owner of the account and also follow
-              the Central Bank regulation and directive
+              the Central Bank regulation
             </p>
           </div>
           <div className="items">
@@ -35,7 +34,7 @@ const Welcome = () => {
             <p>
               Your CAC document which was issued to you when registering for
               your business enables ensure that you are the true owner of your
-              business and as such makes the verification easy
+              business and aids the verification
             </p>
           </div>
           <div className="items ">
