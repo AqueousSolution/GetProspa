@@ -21,9 +21,9 @@
   font-family: "gilroylight", Arial, sans-serif;
 }
 
-body {
+/* body {
   background: url(prospaBG.png), linear-gradient(90deg, #fa4a84, #7e51ff);
-}
+} */
 
 nav {
   background-color: #260350;
@@ -329,7 +329,7 @@ button {
   text-align: left;
   top: 58%;
   padding: 0 2% 0 5%;
-  color: #0a1035;
+  color: #8397aa;
   font-size: 1rem;
 }
 
@@ -508,4 +508,227 @@ button {
 
     font-size: 0.9rem;
   }
+}
+
+/* FAQ section */
+
+section.faq {
+  height: 1280px;
+  position: relative;
+  padding: 0 1.9rem;
+}
+
+.faq-bg {
+  width: 100%;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  z-index: -1;
+}
+
+.faq .faq-bg img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: bottom;
+}
+.faq-title {
+  text-align: center;
+  color: #260450;
+  font-family: "gilroyextrabold";
+  padding: 5rem 0;
+  position: relative;
+}
+
+.faq-answers {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(3, max-content);
+  column-gap: 1.9rem;
+  row-gap: 1.9rem;
+}
+
+.faq-answers__item {
+  width: 372px;
+  height: max-content;
+  border-radius: 20px;
+  background: #fff;
+  box-shadow: 0 4px 20px rgba(63, 63, 63, 0.1);
+  padding: 55px 45px;
+}
+
+p {
+  font-size: 15px;
+  margin-top: 0;
+  margin-bottom: 1rem;
+  color: #484848;
+}
+
+.answer {
+  line-height: 28px;
+}
+
+.question {
+  font-size: 17px;
+  color: #260450;
+  font-family: gilroyextrabold;
+  margin-bottom: 1.9rem;
+}
+
+.item-four {
+  grid-column: 2/3;
+  margin-top: -12rem;
+  grid-row: 2/3;
+}
+
+.item-five {
+  grid-column: 3/4;
+  margin-top: -11rem;
+}
+
+.item-six {
+  grid-column: 2/3;
+  grid-row: 3/4;
+  justify-self: center;
+}
+
+.swag-button {
+  background: #260450;
+  width: 215px;
+  height: 60px;
+  border-radius: 100px 100px 100px 0;
+  font-size: 15px;
+  font-weight: 600;
+  color: #fff;
+  padding: 20px 55px;
+  text-decoration: none;
+}
+
+.download-app-section {
+  padding: 10px 2.5rem;
+  margin-top: -2rem;
+  color: #ffffff;
+}
+
+.download-app {
+  height: 310px;
+  padding: 30px 65px;
+  background: linear-gradient(128.64deg, #eb4b93 30.24%, #9b51e0 96.33%),
+    #8e50ef;
+  overflow: hidden;
+  border-radius: 25px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.download-app__title {
+  margin-top: 3rem;
+}
+
+.download-app__subtitle {
+  color: #ffffff;
+  margin-top: 1.5rem;
+  font-size: 18.5px;
+}
+
+.download-app-link {
+  padding: 15px 35px;
+  background: #000;
+  border-radius: 8px;
+  color: #fff;
+  margin-right: 15px;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.apple-icon {
+  height: 2.2rem;
+  width: 2.2rem;
+  margin-right: 7px;
+}
+
+.web-icon {
+  height: 2.2rem;
+  width: 2.2rem;
+}
+
+.download-app__links {
+  margin-top: 2rem;
+  display: flex;
+}
+
+.download-app__links .icon {
+  width: 30%;
+}
+
+.download-text {
+  font-size: 11px;
+}
+
+.download-preview {
+  width: 19rem;
+  overflow: hidden;
+}
+
+.prospa-together {
+  height: 100vh;
+  width: 100%;
+  background-color: #260450;
+  color: white;
+  padding: 0 3rem;
+}
+
+.prospa-together-title {
+  font-size: 2rem;
+  padding: 8.5rem 0;
+  text-align: center;
+  font-family: "gilroyextrabold";
+}
+
+.prospa-together-feature__icon {
+  height: 2.3rem;
+  margin-bottom: 2rem;
+}
+
+.prospa-together-features {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+}
+.prospa-together-feature__content {
+  color: white;
+  margin-top: 2rem;
+  line-height: 2rem;
+}
+
+.prospa-together-feature {
+  width: 18rem;
+}
+
+.businesshub {
+  min-height: 1180px;
+  padding: 2rem 4rem 4rem 13.5rem;
+}
+.businesshub-flex {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.screenshot1 {
+  height: 90vh;
+}
+
+.businesshub-flex__content {
+  width: 35%;
+  font-size: 19px;
+  line-height: 35px;
+}
+
+.businesshub-flex__content .title {
+  margin-top: 8rem;
+  margin-bottom: 1.2rem;
 }

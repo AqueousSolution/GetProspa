@@ -9,6 +9,7 @@ import Account from "./components/Account";
 import Invoicing from "./components/Invoicing";
 import AccMgt from "./components/AccMgt";
 import Welcome from "./components/Welcome";
+import HomePage from "./components/HomePage"
 import { HashRouter, Switch, Route } from "react-router-dom";
 
 function App() {
@@ -22,7 +23,8 @@ function App() {
         <Route exact path="/security" component={Security}></Route>
         <Route exact path="/support" component={Support}></Route>
         <Route exact path="/topbar" component={TopBar}></Route>
-        <Route exact path="/" component={Welcome}></Route>
+        <Route exact path="/" component={HomePage}></Route>
+        <Route exact path='/welcome' component={Welcome}></Route>
       </Switch>
     </HashRouter>
   );
